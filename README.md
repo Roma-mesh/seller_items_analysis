@@ -68,4 +68,4 @@ export S3_SECRET_KEY="your_secret_key"
 export PG_PASSWORD="your_postgres_password"
 
 # Запуск ETL-процесса
-spark-submit active_customers.py
+seller_items_analysis.py
